@@ -1,0 +1,35 @@
+
+Assignment-1
+1. Why do computers understand only binary language?
+2. What is the full form of IDE?
+3. What is the difference between a text editor and a code editor?
+4. What are the steps to develop software using the C language?
+5. Explore by your own
+    1. What is the latest version of C Language?
+    2. Who developed C Language?
+    3. What is the difference between System and Application Software?
+    4. How to convert a number from a decimal number system to a binary number system?
+
+Solutions of assignment - 1 :
+Ans.1 : Because it is very easy to represent data in the form of 1s and 0s. It will be more complex if we want to make computer to understand language other then binary.
+Ans.2 : IDE --> Integrated Development Environment.
+Ans.3 : Code editor knows the syntax of the language we are typing, and hence improves our code by highlighting different parts, while a text editor is used to write a plane text formate
+	  code without any highlighting.
+Ans.4 : There are majorily two steps to develop a software using the C language, that are as follows :
+  		A. Writting the code --> In this step, we simply write the code with the help of a code editor or any text editor.
+		B. Building --> In this step, our code posses of 3 stages, that are Preprocessing, Compiling & Debugging and Linking.
+Ans.5 : 1. Latest version of C language :- C17
+	  2. Dennis Ritchie in 1972 at Bell laboratories.
+	  3. A system software acts as an interface between the system and the application software. For Example :- Operating System.
+	     Whereas an application software is used to perform several specific tasks given by the user. For Example :- Coral Draw.
+	  4. Steps to convert a number from decimal to binary system :-
+		-> Divide the number by 2 continuously till the number equals to the 0.
+		-> write the remainders obtained in the reverse order.
+		-> Now the number obtained is the binary equivalent of the decimal number.
+		-> For Example :- Decimal number = 5
+					Dividing by 2 :
+						5/2 = 2, rem = 1,
+						2/2 = 1, rem = 0,
+						1/2 = 0, rem = 1.
+					Reverse order of remainders = 101
+					Therefore, 5 = 101 in binary.
